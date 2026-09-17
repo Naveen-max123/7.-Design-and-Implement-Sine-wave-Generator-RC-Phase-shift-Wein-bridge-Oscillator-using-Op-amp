@@ -62,18 +62,37 @@ Rf = 15K *2=30KΩ
 2.	Observe the output waveforms using a DSO.For obtaining sine wave adjust Rf.
 3.	Measure the output wave frequency and amplitude.
 
+**RC PHASE SHIFT OSCILLATOR:**
 
   **CIRCUIT DIAGRAM**
+<img width="1600" height="1092" alt="image" src="https://github.com/user-attachments/assets/a9b9cec2-f860-468a-a192-8293da16bc7e" />
 
 
   **MODEL GRAPH:**
+<img width="1600" height="744" alt="image" src="https://github.com/user-attachments/assets/f7f5a36a-fe82-492c-804b-555cf732cc7e" />
 
 
   **TABULATION:**
- 
+<img width="1600" height="619" alt="image" src="https://github.com/user-attachments/assets/b4e71744-688b-4818-8be8-bdf236607271" />
 
+ **GRAPH:**
+<img width="1600" height="776" alt="image" src="https://github.com/user-attachments/assets/ace890c9-d698-49a1-a925-59c158859549" />
 
+**WEIN BRIDGE OSCILLATOR:**
+  **CIRCUIT DIAGRAM**
 
+<img width="1600" height="1194" alt="image" src="https://github.com/user-attachments/assets/46d445ed-48ee-4431-ad05-e42712a2da0e" />
+
+  **MODEL GRAPH:**
+
+<img width="1600" height="704" alt="image" src="https://github.com/user-attachments/assets/8f8f956d-3dab-4597-a96a-493e8146e537" />
+
+  **TABULATION:**
+<img width="1600" height="611" alt="image" src="https://github.com/user-attachments/assets/a7f361a0-ead1-4fb3-9990-c280565710a2" />
+
+ **GRAPH:**
+
+<img width="1600" height="754" alt="image" src="https://github.com/user-attachments/assets/f405f7b4-f4d1-447d-93b0-b3b6b71fc239" />
 
 **RESULT:**
 Thus a RC Phase Shift and Wien Bridge oscillators designed and tested using op-amp IC 741.
